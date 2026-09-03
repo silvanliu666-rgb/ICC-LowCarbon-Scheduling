@@ -1,0 +1,5 @@
+Ablation Scenario,Op_Cost (CNY),Cost_Saved (%),Carbon_Em (kg),Carbon_Red (%),Curtailment (%)
+1_No_Flexibility,31044.69,0.0,17872.32,0.0,22.05
+2_Only_LMS_Flexible,29494.14,4.99,16700.73,6.56,14.57
+3_Only_LMI_Flexible,28712.29,7.51,13743.67,23.1,1.71
+4_Full_Workload_Flexibility,25638.56,17.41,13036.54,27.06,0.0

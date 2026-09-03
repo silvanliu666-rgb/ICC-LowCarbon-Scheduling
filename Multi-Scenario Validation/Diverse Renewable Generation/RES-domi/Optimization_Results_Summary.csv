@@ -1,0 +1,5 @@
+Scenario,Cost_Before (CNY),Cost_After (CNY),Cost_Red (%),Carbon_Before (kg),Carbon_After (kg),Carbon_Red (%),Curtail_Before (%),Curtail_After (%)
+S1_Balanced,30871.25,26410.93,14.45,18653.01,12971.68,30.46,22.82,0.69
+S2_PV_Domi,35356.79,29716.21,15.95,22123.07,14276.83,35.47,42.4,1.56
+S3_Wind_Domi,26594.87,24925.34,6.28,15319.85,10677.4,30.3,4.85,1.05
+S4_Extreme,31415.4,27864.83,11.3,18541.2,12137.03,34.54,25.06,0.76

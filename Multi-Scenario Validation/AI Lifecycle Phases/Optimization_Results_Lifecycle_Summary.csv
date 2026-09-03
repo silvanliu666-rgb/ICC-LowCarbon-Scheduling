@@ -1,0 +1,4 @@
+Lifecycle Phase,Cost_Before (CNY),Cost_After (CNY),Cost_Red (%),Carbon_Before (kg),Carbon_After (kg),Carbon_Red (%),Curtail_Before (%),Curtail_After (%)
+Phase1_PreTraining,30916.23,26290.86,14.96,18622.14,12913.98,30.65,22.9,0.69
+Phase2_FineTuning,33345.86,23794.15,28.64,17075.89,10165.96,40.47,27.95,0.22
+Phase3_Inference,27971.36,27202.91,2.75,17004.0,14519.01,14.61,12.46,0.39

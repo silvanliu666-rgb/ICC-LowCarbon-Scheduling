@@ -1,0 +1,5 @@
+Scheduling Method,Total Cost (CNY),Total Carbon (kg),Curtailment (%)
+1_Price_Only,26310.73,13026.78,0.64
+2_Carbon_Only,27680.56,12328.94,0.32
+3_Certificate_Only,31107.49,14458.7,5.46
+4_Proposed_Method,26235.12,13181.19,0.1

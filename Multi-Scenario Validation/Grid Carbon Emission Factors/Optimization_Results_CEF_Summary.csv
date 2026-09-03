@@ -1,0 +1,4 @@
+CEF Scenario,Cost_Before,Cost_After,Cost_Red (%),Carbon_Before,Carbon_After,Carbon_Red (%)
+S1_Static_Grid,30916.23,26512.37,14.24,16957.82,13798.2,18.63
+S2_Current_Dynamic,30916.23,26723.35,13.56,18622.14,12280.83,34.05
+S3_Future_Duck_Curve,30932.44,26106.73,15.6,21817.24,13590.31,37.71

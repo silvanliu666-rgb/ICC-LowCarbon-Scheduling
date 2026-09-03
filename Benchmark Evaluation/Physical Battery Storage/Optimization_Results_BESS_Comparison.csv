@@ -1,0 +1,5 @@
+Scenario,Total Cost (CNY),Total Carbon (kg),Curtailment (%)
+1_No_Flex_No_BESS,31044.69,17872.32,22.05
+2_Physical_BESS_Only,25692.22,15239.63,1.54
+3_Virtual_Storage_Only,26609.82,12562.24,0.27
+4_Combined_BESS_and_Virtual,27351.54,12626.39,0.0
